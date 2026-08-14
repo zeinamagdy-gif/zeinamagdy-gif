@@ -13,7 +13,6 @@ Business Information Systems graduate turned **Data Analyst & Python Developer**
 ## Featured projects
 | Project | Description |
 |---|---|
-| [gradproject](https://github.com/zeinamagdy-gif/gradproject) | Real-time data pipeline that ingests, cleans, and visualizes international export data |
 | [Graduation-project-interface-](https://github.com/zeinamagdy-gif/Graduation-project-interface-) | Secure web dashboard interface with access-control, built for the graduation project |
 | [PMO-interface](https://github.com/zeinamagdy-gif/PMO-interface) | Interface exploring PMO-style project tracking, inspired by my Central Bank internship |
 
