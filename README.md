@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="top_bar.SVG" width="100%" alt="mika.os boot sequence with live GitHub stats, ending in: Mika Stiebitz">
+<img src="top_bar.SVG" width="100%" alt="zeina.os boot sequence with live GitHub stats, ending in: Zeina Magdy">
 
-<a href="https://github.com/zeinamagdy-gif"><img src="https://github.com/zeinamagdy-gif/zeinamagdy-gif/blob/main/top_bar.SVG" alt="Profile views"></a>
-<a href="https://wakatime.com/@1722166e-293b-46d0-8ece-a536ce873518"><img src="https://wakatime.com/badge/user/1722166e-293b-46d0-8ece-a536ce873518.svg?style=flat-square" alt="Total time coded (WakaTime)"></a>
+<!-- <a href="https://github.com/zeinamagdy-gif"><img src="https://github.com/zeinamagdy-gif/zeinamagdy-gif/blob/main/top_bar.SVG" alt="Profile views"></a>
+<a href="https://wakatime.com/@1722166e-293b-46d0-8ece-a536ce873518"><img src="https://wakatime.com/badge/user/1722166e-293b-46d0-8ece-a536ce873518.svg?style=flat-square" alt="Total time coded (WakaTime)"></a> -->
 
 </div>
 
