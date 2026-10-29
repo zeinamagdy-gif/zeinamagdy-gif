@@ -1,14 +1,11 @@
-# Hi, I'm Zeina 👋
+<div align="center">
 
-Business Information Systems graduate turned **Data Analyst & Python Developer**, with hands-on experience building data pipelines, executive dashboards, and ERP solutions.
+<img src="top_bar.SVG" width="100%" alt="mika.os boot sequence with live GitHub stats, ending in: Mika Stiebitz">
 
-- 🎓 BIS graduate, Galala University (2021–2025)
-- 🏦 Corporate Strategy & PMO Intern @ Central Bank of Egypt (Governor's Office)
-- 🛠️ Odoo & E-Commerce Developer Intern @ Archer Solutions
-- 🏆 Best Graduation Project Poster — BIS Department
+<a href="https://github.com/zeinamagdy-gif"><img src="https://github.com/zeinamagdy-gif/zeinamagdy-gif/blob/main/top_bar.SVG" alt="Profile views"></a>
+<a href="https://wakatime.com/@1722166e-293b-46d0-8ece-a536ce873518"><img src="https://wakatime.com/badge/user/1722166e-293b-46d0-8ece-a536ce873518.svg?style=flat-square" alt="Total time coded (WakaTime)"></a>
 
-## What I work with
-`Python` · `SQL` · `JavaScript` · `HTML/CSS` · `Power BI` · `Odoo ERP` · `Microsoft Excel/Access`
+</div>
 
 ## Featured projects
 | Project | Description |
