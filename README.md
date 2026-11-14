@@ -10,7 +10,7 @@
   
 <div align="center">
 
-<img src="pulse.svg" width="100%" alt=" pulses live, ending in: Zeina Magdy">
+<img src="pulses.SVG" width="100%" alt=" pulses live, ending in: Zeina Magdy">
 
 <!-- <a href="https://github.com/zeinamagdy-gif"><img src="https://github.com/zeinamagdy-gif/zeinamagdy-gif/blob/main/top_bar.SVG" alt="Profile views"></a>
 <a href="https://wakatime.com/@1722166e-293b-46d0-8ece-a536ce873518"><img src="https://wakatime.com/badge/user/1722166e-293b-46d0-8ece-a536ce873518.svg?style=flat-square" alt="Total time coded (WakaTime)"></a> -->
