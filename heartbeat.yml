@@ -1,0 +1,41 @@
+name: Update heartbeat
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"      # every 6 hours
+  workflow_dispatch:             # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_heartbeat.py
+      - .github/workflows/heartbeat.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build heartbeat from my GitHub contributions
+        env:
+          # Uses a personal token if you add one (see notes), otherwise the built-in token
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: zeinamagdy-gif
+        run: python scripts/build_heartbeat.py
+
+      - name: Commit if the graphic changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/heartbeat.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh heartbeat"
+            git push
+          fi
