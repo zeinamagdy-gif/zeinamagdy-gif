@@ -16,7 +16,7 @@ I'm learning Python by building things I actually want to use: a command-line ta
   
 <div align="center">
 
-<img src="pulses.SVG" width="100%" alt=" pulses live, ending in: Zeina Magdy">
+<img src="heartbeat-demo.svg" width="100%" alt=" pulses live, ending in: Zeina Magdy">
 
 ## What I'm working on
 
